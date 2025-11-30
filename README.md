@@ -74,7 +74,6 @@ me.say_hi
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=and262144&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=and262144&layout=compact&theme=transparent)
 
 </div>
@@ -107,29 +106,25 @@ NONE FOR NOW
 mindmap
   root((2025 Goals))
     Complete Syllabus
-      Class 11
+      Sr. Sec.
         Physics
         Chemistry
         Biology
         Mathematics
-    Learn New Tech
-      Master Brian2
-      Deep Learning
-      Computer Vision
-      NLP
+    Relearn Tech
+        Julia
+        Data manipulation
+        Keybinds
     Build Projects
-      Portfolio Website
-      Cinnamon & Diabetes
+      CodeName:Skullcap
+      CodeName:Layers
       Notes
       AI Projects
-        Neural Networks
-        Computer Vision
-        NLP Applications
+        On Hold
     Soft Skills
-      better temper
-      intrapersonal skill development
-      interpersonal skill management
-      Networking
+      Empathy in Communication
+      Internalization of motivation
+      Tenacity
 ```
 
 ## 🐍 Contribution Graph
