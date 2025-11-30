@@ -26,9 +26,9 @@ class Developer
   def initialize
     @name = "Satvik Anand"
     @role = "Student & Developer"
-    @languages = ["Python", "JavaScript", "Rust"]
-    @interests = ["AI/ML", "Neuroscience", "Open Source"]
-    @current_project = "Building something awesome!"
+    @languages = []
+    @interests = []
+    @current_project = "Final Exams!"
   end
 
   def say_hi
@@ -39,7 +39,7 @@ end
 me = Developer.new
 me.say_hi
 ```
-
+<!---
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -66,14 +66,12 @@ me.say_hi
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---!>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=and262144&show_icons=true&theme=transparent)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=and262144&theme=transparent)
 
@@ -156,28 +154,6 @@ mindmap
 ### 👀 Profile Views
 
 ![Visitors](https://komarev.com/ghpvc/?username=dirtbag128&color=lightgrey)
-
-### 🎵 My Music Corner
-
-<div align="center">
-
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/@satvik1024)
-[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/satvik64)
-
-![Recently Played](https://lastfm-recently-played.vercel.app/api?user=satvik64)
-
-</div>
-
-<details>
-<summary>✨ Fun Facts</summary>
-<br>
-
-- 🌱 I'm currently learning Brian2 and Neural Networks
-- 💬 Ask me about AI and Neuroscience
-- ⚡ Fun fact: I am not fun
-- 🎮 When not coding: studying
-
-</details>
 
 </div>
 
