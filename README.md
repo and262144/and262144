@@ -71,15 +71,13 @@ me.say_hi
 
 ## 📊 GitHub Stats
 
-<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=and262144&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=and262144&layout=compact&theme=transparent)
-</div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+
 ![GithubTrophies](https://github-profile-trophy.vercel.app/?username=and262144&theme=transparent&no-frame=true&no-bg=false&margin-w=10)
-</div>
+
 
 ## 🎯 Weekly Development Breakdown
 
@@ -127,14 +125,10 @@ mindmap
 
 ## 📫 Let's Connect!
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik64/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dirtbag128.github.io/notes-and-such/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandsatvik11313@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/699269054774509660)
-
-</div>
 
 ---
 
