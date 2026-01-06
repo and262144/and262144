@@ -1,16 +1,16 @@
+````
 <div align="center">
 <pre>
- ▄▄▄·  ▐ ▄ ·▄▄▄▄      .▄▄ · ▄▄▄▄▄▪  ▄▄▌  ▄▄▌      ▪      ▄▄▄  ▪  .▄▄ · ▄▄▄ .
-▐█ ▀█ •█▌▐███▪ ██     ▐█ ▀. •██  ██ ██•  ██•      ██     ▀▄ █·██ ▐█ ▀. ▀▄.▀·
-▄█▀▀█ ▐█▐▐▌▐█· ▐█▌    ▄▀▀▀█▄ ▐█.▪▐█·██▪  ██▪      ▐█·    ▐▀▀▄ ▐█·▄▀▀▀█▄▐▀▀▪▄
-▐█ ▪▐▌██▐█▌██. ██     ▐█▄▪▐█ ▐█▌·▐█▌▐█▌▐▌▐█▌▐▌    ▐█▌    ▐█•█▌▐█▌▐█▄▪▐█▐█▄▄▌
- ▀  ▀ ▀▀ █▪▀▀▀▀▀•      ▀▀▀▀  ▀▀▀ ▀▀▀.▀▀▀ .▀▀▀     ▀▀▀    .▀  ▀▀▀▀ ▀▀▀▀  ▀▀▀  ▀
-</pre>
 
+</pre>
+▄▄▄·  ▐ ▄ ·▄▄▄▄      .▄▄ · ▄▄▄▄▄▪  ▄▄▌  ▄▄▌      ▪      ▄▄▄  ▪  .▄▄ · ▄▄▄ .   
+▐█ ▀█ •█▌▐███▪ ██     ▐█ ▀. •██  ██ ██•  ██•      ██     ▀▄ █·██ ▐█ ▀. ▀▄.▀·   
+▄█▀▀█ ▐█▐▐▌▐█· ▐█▌    ▄▀▀▀█▄ ▐█.▪▐█·██▪  ██▪      ▐█·    ▐▀▀▄ ▐█·▄▀▀▀█▄▐▀▀▪▄   
+▐█ ▪▐▌██▐█▌██. ██     ▐█▄▪▐█ ▐█▌·▐█▌▐█▌▐▌▐█▌▐▌    ▐█▌    ▐█•█▌▐█▌▐█▄▪▐█▐█▄▄▌   
+ ▀  ▀ ▀▀ █▪▀▀▀▀▀•      ▀▀▀▀  ▀▀▀ ▀▀▀.▀▀▀ .▀▀▀     ▀▀▀    .▀  ▀▀▀▀ ▀▀▀▀  ▀▀▀  ▀
 # Greetings, Comrade in life!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Learning+New+Things;Creating+New+Things;Becoming+a+better+me)](https://youtu.be/CFxNDTlIt_w)
-
 </div>
 
 ---
@@ -21,63 +21,51 @@
 
 ```ruby
 class Developer
-  attr_accessor :name, :role, :languages, :interests, :current_project
-
   def initialize
     @name = "Satvik Anand"
     @role = "Student & Developer"
-    @languages = []
-    @interests = []
-    @current_project = "Final Exams!"
+    @current_focus = "Exams"
   end
 
   def say_hi
-    puts "Thanks for dropping by! Let's build something amazing together!"
+    puts "Slowly building depth over hype."
   end
 end
-
-me = Developer.new
-me.say_hi
 ````
 
 ---
 
-## 📊 GitHub Stats
+Goals
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dirtbag128\&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dirtbag128\&layout=compact\&theme=transparent)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dirtbag128\&theme=transparent\&no-frame=true\&margin-w=10)
-
----
-
-## 🎯 Current Goals
-
-```mermaid
-graph TD
-  A[2026 Goals] --> B[Complete Syllabus]
-  B --> P[Physics]
-  B --> C[Chemistry]
-  B --> Bio[Biology]
-  B --> M[Mathematics]
-
-  A --> D[Relearn Tech]
-  D --> J[Julia]
-  D --> K[Keybinds]
-  D --> L[Data Manipulation]
-
-  A --> E[Build Projects]
-  E --> S[Skullcap]
-  E --> R[Layers]
-  E --> AI[AI Projects]
-
-  A --> F[Writing]
-  F --> N[Notes]
-  F --> O[Observations]
+```
+2026
+├── Academics
+│   ├── Physics
+│   ├── Chemistry
+│   ├── Biology
+│   └── Mathematics
+│
+├── Technology
+│   ├── Julia
+│   ├── Data Manipulation
+│   ├── Linux Mastery
+│   └── Keybinds & Workflow
+│
+├── Projects
+│   ├── CodeName: Skullcap
+│   ├── CodeName: Layers
+│   └── AI Experiments
+│       ├── blob
+│       └── applied models
+│
+├── Writing
+│   ├── Notes
+│   ├── Observations
+│   ├── Weird Analogies
+│   └── Recipes & Configs
+│
+└── Personal
+    └── Tenacity
 ```
 
 ---
@@ -89,12 +77,7 @@ graph TD
 
 ---
 
-## 🌟 Featured Projects
-
-> 🚧 **None for now**
----
-
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
 <div align="center">
 
@@ -117,4 +100,7 @@ graph TD
 
 ```
 Never Give Up.
+```
+
+```
 ```
