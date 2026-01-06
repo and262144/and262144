@@ -2,41 +2,35 @@ name: GitHub Profile README Update
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: ["main", "master"]
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      # Checkout repository
-      - uses: actions/checkout@v4
-      
-      # Generate Snake Animation
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            
-      # Deploy to GitHub Pages
-      - name: Push to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3.9.3
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: '🐍 Generate Snake Animation'
+          commit_message: "🐍 Generate Snake Animation"
