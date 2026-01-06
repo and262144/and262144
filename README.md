@@ -1,12 +1,12 @@
 <div align="center">
 <pre>
-
-</pre>
 ▄▄▄·  ▐ ▄ ·▄▄▄▄      .▄▄ · ▄▄▄▄▄▪  ▄▄▌  ▄▄▌      ▪      ▄▄▄  ▪  .▄▄ · ▄▄▄ .   
 ▐█ ▀█ •█▌▐███▪ ██     ▐█ ▀. •██  ██ ██•  ██•      ██     ▀▄ █·██ ▐█ ▀. ▀▄.▀·   
 ▄█▀▀█ ▐█▐▐▌▐█· ▐█▌    ▄▀▀▀█▄ ▐█.▪▐█·██▪  ██▪      ▐█·    ▐▀▀▄ ▐█·▄▀▀▀█▄▐▀▀▪▄   
 ▐█ ▪▐▌██▐█▌██. ██     ▐█▄▪▐█ ▐█▌·▐█▌▐█▌▐▌▐█▌▐▌    ▐█▌    ▐█•█▌▐█▌▐█▄▪▐█▐█▄▄▌   
  ▀  ▀ ▀▀ █▪▀▀▀▀▀•      ▀▀▀▀  ▀▀▀ ▀▀▀.▀▀▀ .▀▀▀     ▀▀▀    .▀  ▀▀▀▀ ▀▀▀▀  ▀▀▀  ▀
+</pre>
+
 # Greetings, Comrade in life!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Learning+New+Things;Creating+New+Things;Becoming+a+better+me)](https://youtu.be/CFxNDTlIt_w)
