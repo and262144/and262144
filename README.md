@@ -1,4 +1,3 @@
-````
 <div align="center">
 <pre>
 
@@ -31,13 +30,13 @@ class Developer
     puts "Slowly building depth over hype."
   end
 end
-````
+```
 
 ---
 
 Goals
 
-```
+```yaml
 2026
 ├── Academics
 │   ├── Physics
@@ -100,7 +99,4 @@ Goals
 
 ```
 Never Give Up.
-```
-
-```
 ```
