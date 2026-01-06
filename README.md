@@ -72,29 +72,18 @@ me.say_hi
 ## 📊 GitHub Stats
 
 <div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=and262144&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=and262144&layout=compact&theme=transparent)
-
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-
 ![GithubTrophies](https://github-profile-trophy.vercel.app/?username=and262144&theme=transparent&no-frame=true&no-bg=false&margin-w=10)
-
 </div>
 
 ## 🎯 Weekly Development Breakdown
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6a054fce-8cfa-461c-8574-bc36e5332b85/deploy-status)](https://app.netlify.com/sites/s64s-to-do/deploys)
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-</div>
 
 ## 🌟 Featured Projects
 
@@ -104,7 +93,7 @@ NONE FOR NOW
 
 ```mermaid
 mindmap
-  root((2025 Goals))
+  root((2026 Goals))
     Complete Syllabus
       Sr. Sec.
         Physics
@@ -118,13 +107,18 @@ mindmap
     Build Projects
       CodeName:Skullcap
       CodeName:Layers
-      Notes
       AI Projects
-        On Hold
+        CodeName:blob
     Soft Skills
-      Empathy in Communication
-      Internalization of motivation
       Tenacity
+    Writing
+      Notes
+      Thoughts
+       Weird analogues
+       Observations
+      Recipes
+       Food
+       Set-up configs
 ```
 
 ## 🐍 Contribution Graph
